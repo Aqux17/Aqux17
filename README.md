@@ -91,7 +91,7 @@
 <p>
   <a href="mailto:mukkadians77@gmail.com"><img src="https://img.shields.io/badge/Email-mukkadians77%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://linkedin.com/in/ashwathharish"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://aqux17.github.io/"><img src="https://img.shields.io/badge/Portfolio-Visit-6C63FF?style=flat-square&logo=githubpages&logoColor=white" alt="Portfolio"></a>
+ [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-7c3aed?style=for-the-badge&logo=githubpages&logoColor=white)](https://aqux17.github.io/aqux.17/)
 </p>
 
 <div align="center">
