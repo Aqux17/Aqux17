@@ -26,9 +26,9 @@
 ### 📈 Live dashboards
 
 | Dashboard | What it shows | Stack |
-|---|---|---|
-| [**Sales & Profit Command Centre**](https://aqux17.github.io/dashboards/sales-profit-command-centre.html) | KPI cards, click-to-filter charts, target leaderboards, discount heatmap, insights engine, searchable order table with CSV export | HTML · CSS · JS · Chart.js |
-| [**Sales & Profit Executive Dashboard**](https://aqux17.github.io/dashboards/sales-profit-executive-dashboard.html) | Period comparison, category/region/discount margin analysis, product matrix, seasonality heatmap, rep & customer leaderboards | HTML · CSS · JS · Chart.js |
+| :--- | :--- | :--- |
+| **[Sales & Profit Command Centre](https://aqux17.github.io/aqux.17/dashboards/Sales_Profit_Command_Centre.html)** | KPI cards, click-to-filter charts, target leaderboards, discount heatmap, insights engine, searchable order table with CSV export | HTML · CSS · JS · Chart.js |
+| **[Sales & Profit Executive Dashboard](https://aqux17.github.io/aqux.17/dashboards/Sales_Profit_Executive_Dashboard.html)** | Period comparison, category/region/discount margin analysis, product matrix, seasonality heatmap, rep & customer leaderboards | HTML · CSS · JS · Chart.js |
 
 > Everything runs client-side in the browser: no backend, no install.
 
